@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.exe
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.deps.json
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.runtimeconfig.json
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.dll
+C:\Visual Studio AOL\1\Fatima Albashar\bin\Debug\net8.0\Fatima Albashar.pdb
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets\msbuild.Fatima Albashar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets\msbuild.build.Fatima Albashar.props
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fatima Albashar.props
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fatima Albashar.props
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\scopedcss\bundle\Fatima Albashar.styles.css
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\scopedcss\projectbundle\Fatima Albashar.bundle.scp.css
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.dll
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\refint\Fatima Albashar.dll
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.pdb
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\Fatima Albashar.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Fatima Albashar\obj\Debug\net8.0\ref\Fatima Albashar.dll
